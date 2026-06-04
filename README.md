@@ -50,3 +50,31 @@ AWS, EC2, RDS, CloudWatch, SNS, CloudTrail, S3, Monitoring, Logging, Auditing, C
 ## Outcome
 
 Successfully implemented a cloud monitoring and security solution capable of generating alerts, auditing AWS activities and storing logs centrally for operational visibility and security.
+## Project Screenshots
+
+### EC2 Instance
+![EC2](screenshots/ec2-instance.png)
+
+### RDS Database
+![RDS](screenshots/rds-instance.png)
+
+### SNS Topic
+![SNS](screenshots/sns-topic.png)
+
+### SNS Subscription
+![SNS Subscription](screenshots/sns-subscription.png)
+
+### CloudWatch Alarm
+![CloudWatch](screenshots/cloudwatch-alarm.png)
+
+### Alarm Email Notification
+![Alarm Email](screenshots/alarm-email.png)
+
+### CloudTrail Created
+![CloudTrail](screenshots/cloudtrail-created.png)
+
+### CloudTrail Logging
+![CloudTrail Logging](screenshots/cloudtrail-logging.png)
+
+### S3 Log Bucket
+![S3 Bucket](screenshots/s3-log-bucket.png)
